@@ -1,8 +1,14 @@
-#include <iostream>
+#include "threadpool.h"
 
-using namespace std;
+void funcx(int a){
+    for(int i = 0; i < 100000; ++i){
+        a++;
+        cout << a << endl;
+    }
+}
 
 int main(){
-    cout << "hello wrold!" << endl;
+    ThreadPool pool(4);
+    
     return 0;
 }
