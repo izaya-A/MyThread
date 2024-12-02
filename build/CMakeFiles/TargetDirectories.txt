@@ -1,0 +1,3 @@
+/home/lifeifan/Documents/vscodeporject/MyThread/build/CMakeFiles/mythread.dir
+/home/lifeifan/Documents/vscodeporject/MyThread/build/CMakeFiles/edit_cache.dir
+/home/lifeifan/Documents/vscodeporject/MyThread/build/CMakeFiles/rebuild_cache.dir
